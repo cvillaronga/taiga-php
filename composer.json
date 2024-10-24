@@ -1,9 +1,9 @@
 {
-    "name": "tzk/taiga-php",
+    "name": "cvillaronga/taiga-php",
     "description": "A PHP wrapper for the Taiga.io API",
     "license": "MIT",
     "require": {
-        "php": "~5.5|~7.0",
+        "php": "~5.5|~8.3",
         "php-curl-class/php-curl-class": "^8.3"
     },
     "require-dev": {
